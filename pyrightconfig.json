@@ -1,0 +1,13 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "extraPaths": [
+    "."
+  ],
+  "include": [
+    "src",
+    "tests"
+  ],
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false
+}
